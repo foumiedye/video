@@ -14,7 +14,7 @@ h1 {
 
 /* This changes color and removes default underline in links  */
 a {
-color: #69CBBB;
+color: #FF007F;
 text-decoration: none;
 }
 
@@ -33,7 +33,7 @@ portfolio entries */
 .portfolio-item {
   margin-top: 60px;
   padding: 40px;
-  background-color: #f7f7f7;
+  background-color: #FFC7E9;
 }
 
 /* The embed-container class is for iframes containing content from Vimeo. This will allow videos to resize when the window is scaled, making this site mobile-friendly! */
